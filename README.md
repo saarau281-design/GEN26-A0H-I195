@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-IXXX
 ### Team Details
-#### **Team Name** <<Inevitable>> <br/>
+#### **Inevitable** <<your team name>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Hostel
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
